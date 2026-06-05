@@ -150,7 +150,10 @@ _source_system    STRING     -- 'HUBSPOT', 'DYNAMICS', 'PARADIGM', 'CANVAS'
 _ingested_at      TIMESTAMP  -- UTC ingestion timestamp
 ```
 
-Partition all bronze tables by `_source_system`.
+Metadata column `_ingestion_date` = DATE portion of `_ingested_at` — used as partition key.
+Partition all bronze tables by `(_source_system, _ingestion_date)`. Mode: append not overwrite.
+Each pipeline run creates a new date partition — full history preserved for audit and replay.
+Silver reads only the partition matching `pipeline_run_date` — prevents duplicates on reruns.
 
 ---
 
