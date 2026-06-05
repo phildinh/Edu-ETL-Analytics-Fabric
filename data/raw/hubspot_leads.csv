@@ -1,0 +1,11 @@
+lead_id,student_first_name,student_last_name,student_email,date_of_birth,visa_type,lead_source,course_interest,campus_preference,lead_date,visit_date
+HS-001,Alex,Chen,alex.chen@email.com,2001-03-15,Domestic,Social Media,BMUS301,SYD,2024-01-08,
+HS-002,Maria,Santos,maria.santos@email.com,2000-07-22,International - Student Visa,Agent,BDES401,MEL,2024-01-10,2024-02-05
+HS-003,James,Kim,james.kim@email.com,1999-11-30,International - Student Visa,Agent,MENT501,SYD,2024-01-12,2024-02-08
+HS-004,Priya,Patel,priya.patel@email.com,2001-05-18,International - Student Visa,Agent,BMUS301,SYD,2024-01-15,2024-02-12
+HS-005,Tom,Wilson,tom.wilson@email.com,2000-09-04,Domestic,Direct,BDES401,MEL,2024-01-17,2024-02-14
+HS-006,Linh,Nguyen,linh.nguyen@email.com,2001-01-25,International - Student Visa,Web Referral,BMUS301,SYD,2024-01-19,2024-02-16
+HS-007,Amir,Hassan,amir.hassan@email.com,1999-08-12,Domestic,Direct,MENT501,SYD,2024-01-22,2024-02-19
+HS-008,Sophie,Brown,sophie.brown@email.com,2000-04-30,Domestic,Social Media,BDES401,MEL,2024-01-24,2024-02-21
+HS-009,Daniel,Park,daniel.park@email.com,2001-12-08,International - Student Visa,Agent,BMUS301,SYD,2024-01-26,2024-02-23
+HS-010,Emma,Davis,emma.davis@email.com,2000-06-14,Domestic,Web Referral,MENT501,SYD,2024-01-29,2024-02-26

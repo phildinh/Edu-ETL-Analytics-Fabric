@@ -1,0 +1,7 @@
+enrolment_id,student_email,course_code,campus_code,intake_code,enrolment_date,enrolment_status,withdrawal_date,completion_date,enrolment_fee,scholarship_amount,credit_points
+ENR-005,tom.wilson@email.com,BDES401,MEL,2024-S1,2024-03-25,Withdrawn,2024-05-10,,28500.00,0.00,60
+ENR-006,linh.nguyen@email.com,BMUS301,SYD,2024-S1,2024-03-27,Active,,,32000.00,3200.00,60
+ENR-007,amir.hassan@email.com,MENT501,SYD,2024-S1,2024-03-29,Active,,,38000.00,0.00,80
+ENR-008,sophie.brown@email.com,BDES401,MEL,2024-S1,2024-04-01,Completed,,,28500.00,5000.00,60
+ENR-009,daniel.park@email.com,BMUS301,SYD,2024-S1,2024-04-03,Completed,,,32000.00,0.00,60
+ENR-010,emma.davis@email.com,MENT501,SYD,2024-S1,2024-04-05,Completed,,,38000.00,4000.00,80
